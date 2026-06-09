@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SUNNY NIGHT</title>
+
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<div id="stars"></div>
+
+<header>
+    <div class="logo">☀ SUNNY NIGHT</div>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#technology">Technology</a>
+        <a href="#impact">Impact</a>
+        <a href="#investors">Investors</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+
+<div class="hero-content">
+
+<h1>
+Bringing <span>Sunlight</span><br>
+To Every Night
+</h1>
+
+<p>
+A revolutionary constellation of reflective satellites
+designed to illuminate Earth after sunset.
+</p>
+
+<a href="#about" class="btn">
+Discover More
+</a>
+
+</div>
+
+<div class="hero-image">
+
+<img src="satellite.png" alt="Satellite">
+
+</div>
+
+</section>
+
+<section id="about" class="section reveal">
+
+<h2>Our Mission</h2>
+
+<p>
+SUNNY NIGHT develops orbital mirror satellites capable of
+redirecting sunlight toward selected regions of Earth,
+creating sustainable nighttime illumination.
+</p>
+
+</section>
+
+<section id="technology" class="section reveal">
+
+<h2>Technology</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>🛰 Reflective Mirrors</h3>
+<p>Large ultra-light orbital mirrors.</p>
+</div>
+
+<div class="card">
+<h3>🎯 AI Targeting</h3>
+<p>Precise beam control systems.</p>
+</div>
+
+<div class="card">
+<h3>⚡ Solar Powered</h3>
+<p>100% powered by onboard solar arrays.</p>
+</div>
+
+</div>
+
+</section>
+
+<section id="impact" class="section reveal">
+
+<h2>Global Impact</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>🏙 Cities</h3>
+<p>Reduce electricity consumption.</p>
+</div>
+
+<div class="card">
+<h3>🚑 Disaster Relief</h3>
+<p>Emergency illumination after disasters.</p>
+</div>
+
+<div class="card">
+<h3>🌍 Remote Communities</h3>
+<p>Access to light anywhere on Earth.</p>
+</div>
+
+</div>
+
+</section>
+
+<section id="investors" class="section reveal">
+
+<h2>Investment Opportunity</h2>
+
+<p>
+Projected market value exceeding $500 billion
+through next-generation orbital infrastructure.
+</p>
+
+<a href="#" class="btn">
+Investor Presentation
+</a>
+
+</section>
+
+<section id="contact" class="section reveal">
+
+<h2>Contact Us</h2>
+
+<form>
+
+<input type="text" placeholder="Your Name">
+
+<input type="email" placeholder="Your Email">
+
+<textarea placeholder="Message"></textarea>
+
+<button type="submit">
+Send Message
+</button>
+
+</form>
+
+</section>
+
+<footer>
+
+<p>
+© 2026 SUNNY NIGHT • Illuminating the Future
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
